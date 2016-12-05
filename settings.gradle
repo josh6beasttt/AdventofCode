@@ -1,0 +1,11 @@
+def configureGradleScriptKotlinOn(ProjectDescriptor project) {
+    project.buildFileName = 'build.gradle.kts'
+    project.children.each { configureGradleScriptKotlinOn(it) }
+}
+
+include 'day_one'
+include 'day_two'
+
+rootProject.name = 'AdventofCode'
+
+configureGradleScriptKotlinOn rootProject
