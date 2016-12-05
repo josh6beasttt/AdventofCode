@@ -13,7 +13,7 @@ object BathroomCode {
     val KEYPAD = arrayOf(arrayOf(1, 2, 3), arrayOf(4, 5, 6), arrayOf(7, 8, 9))
 
     @JvmStatic fun main(args: Array<String>) {
-        println(getCode(INSTRUCTIONS.split("\n")))
+        println(getCode(TEST.split("\n")))
     }
 
     fun getCode(instructions: List<String>): String {
