@@ -6,6 +6,7 @@ def configureGradleScriptKotlinOn(ProjectDescriptor project) {
 include 'day_one'
 include 'day_two'
 include 'day_three'
+include 'day_four'
 
 rootProject.name = 'AdventofCode'
 

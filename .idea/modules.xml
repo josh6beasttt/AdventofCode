@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AdventofCode.iml" filepath="$PROJECT_DIR$/AdventofCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day_four/day_four.iml" filepath="$PROJECT_DIR$/day_four/day_four.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_one/day_one.iml" filepath="$PROJECT_DIR$/day_one/day_one.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_three/day_three.iml" filepath="$PROJECT_DIR$/day_three/day_three.iml" />
       <module fileurl="file://$PROJECT_DIR$/day_two/day_two.iml" filepath="$PROJECT_DIR$/day_two/day_two.iml" />
